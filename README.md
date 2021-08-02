@@ -2,3 +2,4 @@
 Python software convert text to techno EDM  https://medium.com/@leesurkis/how-to-generate-techno-music-using-deep-learning-17c06910e1b3
 "Satoshi Wisdom" Song / Mixtape Trax Producers Generators Coders
 # Trax
+# https://medium.com/@leesurkis/how-to-generate-techno-music-using-deep-learning-17c06910e1b3
